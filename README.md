@@ -1,2 +1,2 @@
-# Tutorial
-Experimental repo to learn more about the Github web gui.
+# GitHub_Demo
+Experimental repo for the GitHub demo.
